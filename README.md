@@ -1,7 +1,3 @@
-Product Deduplication - Veridion Challenge
-
-I chose task number #4  Product Deduplication
-
 1.	Task Overview
 The goal of this task is to consolidate duplicate entries in a product dataset, ensuring that each product is represented by a single, enriched entry that maximizes
  available information while ensuring uniqueness.
